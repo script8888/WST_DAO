@@ -1,4 +1,4 @@
-export const WST_DAO_ADDRESS = "0x0415c1431132e41c03232810549A76504a40aFD4";
+export const WST_DAO_ADDRESS = "0xA911a3536e74F6dE29AAdA4B140302AF7828762A";
 export const WST_DAO_ABI = [
     {
       "inputs": [
@@ -187,7 +187,7 @@ export const WST_DAO_ABI = [
     }
   ];
 
-export const WST_NFT_ADDRESS = "0x32B529e6eEeda27a226c5829AB2728CCDE2C4A3e";
+export const WST_NFT_ADDRESS = "0x17969a46bDE179e7c9Af4fFf342b530682FD75DA";
 export const WST_NFT_ABI = [
     {
       "inputs": [
