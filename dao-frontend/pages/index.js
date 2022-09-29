@@ -341,7 +341,7 @@ export default function Home() {
         </div>
       </div>
 
-      <footer className={styles.footer}>Made with &#10084; by Enoch</footer>
+      <footer className={styles.footer}>Made with &#10084; by Script</footer>
     </div>
   );
 }
