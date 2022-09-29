@@ -147,7 +147,7 @@ export default function Home() {
 
   const voteOnProposal = async (proposalId, _vote) => {
     try {
-      const signer = await getProviderOrSigner(signer);
+      const signer = await getProviderOrSigner(true);
       const daoContract = getDaoContractInstance(signer);
       let vote = _vote === "YAY" ? 0 : 1;
       setLoading(true);
